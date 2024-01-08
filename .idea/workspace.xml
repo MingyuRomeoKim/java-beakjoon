@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="088ab022-cc8d-475b-b8ca-40524ca2053b" name="Changes" comment="" />
+    <list default="true" id="088ab022-cc8d-475b-b8ca-40524ca2053b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/problem/Problem1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/Problem1001.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Problem1001">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Main" />
       <module name="java-baekjoon" />
@@ -78,8 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Problem1001" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Problem1000" />
       </list>
     </recent_temporary>
@@ -92,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704673155957</updated>
-      <workItem from="1704673158694" duration="2186000" />
+      <workItem from="1704673158694" duration="3143000" />
     </task>
     <servers />
   </component>
