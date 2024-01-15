@@ -10,7 +10,7 @@ public class Problem2420 {
         a = sc.nextLong();
         b = sc.nextLong();
 
-        Solution solution = (x, y) -> Math.abs(x - y);
+        Solution2420 solution = (x, y) -> Math.abs(x - y);
 
         long result = solution.result(a, b);
         System.out.println(result);
@@ -18,7 +18,7 @@ public class Problem2420 {
 }
 
 @FunctionalInterface
-interface Solution {
+interface Solution2420 {
     long result(long x, long y);
 }
 
