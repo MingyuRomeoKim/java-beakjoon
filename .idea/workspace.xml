@@ -38,20 +38,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Problem2558">
-    <configuration name="Problem1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.Problem1330" />
-      <module name="java-baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem2738">
     <configuration name="Problem2420" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.problem.Problem2420" />
       <module name="java-baekjoon" />
@@ -104,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem2738" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.Problem2738" />
+      <module name="java-baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem2738" />
         <item itemvalue="Application.Problem2558" />
         <item itemvalue="Application.Problem2475" />
         <item itemvalue="Application.Problem2438" />
         <item itemvalue="Application.Problem2420" />
-        <item itemvalue="Application.Problem1330" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +125,7 @@
       <workItem from="1704673158694" duration="6443000" />
       <workItem from="1704785148326" duration="2873000" />
       <workItem from="1705275122515" duration="2841000" />
-      <workItem from="1705360974815" duration="1431000" />
+      <workItem from="1705360974815" duration="4939000" />
     </task>
     <servers />
   </component>
