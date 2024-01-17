@@ -43,9 +43,9 @@
       <recent name="src.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem11382">
-    <configuration name="Problem10171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.Problem10171" />
+  <component name="RunManager" selected="Application.Problem10951">
+    <configuration name="Problem10872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.Problem10872" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem10172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.Problem10172" />
+    <configuration name="Problem10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.Problem10951" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem10998" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.Problem10998" />
+    <configuration name="Problem10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.Problem10952" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem25083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.Problem25083" />
+    <configuration name="Problem2739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.Problem2739" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem10951" />
+        <item itemvalue="Application.Problem2739" />
+        <item itemvalue="Application.Problem10952" />
+        <item itemvalue="Application.Problem10872" />
         <item itemvalue="Application.Problem11382" />
-        <item itemvalue="Application.Problem10998" />
-        <item itemvalue="Application.Problem25083" />
-        <item itemvalue="Application.Problem10172" />
-        <item itemvalue="Application.Problem10171" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <workItem from="1704673158694" duration="6443000" />
       <workItem from="1704785148326" duration="2873000" />
       <workItem from="1705275122515" duration="2841000" />
-      <workItem from="1705360974815" duration="9161000" />
+      <workItem from="1705360974815" duration="11309000" />
     </task>
     <servers />
   </component>
