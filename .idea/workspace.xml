@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="088ab022-cc8d-475b-b8ca-40524ca2053b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/problem/class1/Problem10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem/class1/Problem11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem/class1/Problem2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem/class1/Problem2675.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem1000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem1001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem1008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem10171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem10171.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem10172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem10172.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem10699.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem10699.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem10869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem10869.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem10872.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem10872.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem10950.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem10951.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem10951.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem10952.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem10952.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem10998.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem10998.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem11382.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem11382.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem1271.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem1271.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem1330.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem14681.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem14681.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem2420.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem2420.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem2438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem2438.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem2475.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem2475.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem25083.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem25083.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem2558.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem2558.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem2738.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem2738.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem2739.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem2739.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem2741.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem2741.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem2753.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem7287.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem7287.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/Problem9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/bronze/Problem9498.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +47,13 @@
       <recent name="src.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem15964">
-    <configuration name="Problem11654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.bronze.Problem11654" />
+  <component name="RunManager" selected="Application.Problem2577">
+    <configuration name="Problem1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class1.Problem1152" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problem.bronze.*" />
+          <option name="PATTERN" value="src.problem.class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem15552" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.bronze.Problem15552" />
+    <configuration name="Problem1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class1.Problem1157" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problem.bronze.*" />
+          <option name="PATTERN" value="src.problem.class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem15964" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.bronze.Problem15964" />
+    <configuration name="Problem11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class1.Problem11720" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problem.bronze.*" />
+          <option name="PATTERN" value="src.problem.class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.bronze.Problem2743" />
+    <configuration name="Problem2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class1.Problem2439" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problem.bronze.*" />
+          <option name="PATTERN" value="src.problem.class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.bronze.Problem2744" />
+    <configuration name="Problem2577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class1.Problem2577" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problem.bronze.*" />
+          <option name="PATTERN" value="src.problem.class1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem15964" />
-        <item itemvalue="Application.Problem2744" />
-        <item itemvalue="Application.Problem2743" />
-        <item itemvalue="Application.Problem11654" />
-        <item itemvalue="Application.Problem15552" />
+        <item itemvalue="Application.Problem2577" />
+        <item itemvalue="Application.Problem2439" />
+        <item itemvalue="Application.Problem1157" />
+        <item itemvalue="Application.Problem1152" />
+        <item itemvalue="Application.Problem11720" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +134,7 @@
       <workItem from="1704673158694" duration="6443000" />
       <workItem from="1704785148326" duration="2873000" />
       <workItem from="1705275122515" duration="2841000" />
-      <workItem from="1705360974815" duration="20555000" />
+      <workItem from="1705360974815" duration="30498000" />
     </task>
     <servers />
   </component>
@@ -174,5 +151,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem/class1/Problem2577.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
