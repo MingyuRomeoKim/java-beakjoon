@@ -17,7 +17,7 @@ public class Problem1259 {
             readLineString = reader.readLine();
             if (readLineString.equals("0")) break;
 
-            answers.add(isPalindrom(readLineString));
+            answers.add(isPaleandrom(readLineString));
         }
 
         answers.forEach(answer -> {
