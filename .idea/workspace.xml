@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="088ab022-cc8d-475b-b8ca-40524ca2053b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem/class2/Problem1259.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/class2/Problem1259.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +43,7 @@
       <recent name="src.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem1436">
-    <configuration name="Problem10250" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.class1.Problem10250" />
-      <module name="java-baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.problem.class1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem1546">
     <configuration name="Problem10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.problem.class1.Problem10809" />
       <module name="java-baekjoon" />
@@ -110,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem1546" />
+      <module name="java-baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.problem.class2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem1546" />
         <item itemvalue="Application.Problem1436" />
         <item itemvalue="Application.Problem1259" />
         <item itemvalue="Application.Problem1181" />
         <item itemvalue="Application.Problem10809" />
-        <item itemvalue="Application.Problem10250" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +130,7 @@
       <workItem from="1704673158694" duration="6443000" />
       <workItem from="1704785148326" duration="2873000" />
       <workItem from="1705275122515" duration="2841000" />
-      <workItem from="1705360974815" duration="56196000" />
+      <workItem from="1705360974815" duration="58258000" />
     </task>
     <servers />
   </component>
@@ -148,5 +147,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem/class2/Problem1546.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
