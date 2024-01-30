@@ -44,9 +44,9 @@
       <recent name="src.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem2751">
-    <configuration name="Problem1929" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem1929" />
+  <component name="RunManager" selected="Application.Problem10989">
+    <configuration name="Problem10989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem10989" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem10989" />
         <item itemvalue="Application.Problem2751" />
         <item itemvalue="Application.Problem2292" />
         <item itemvalue="Application.Problem2231" />
         <item itemvalue="Application.Problem1966" />
-        <item itemvalue="Application.Problem1929" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <workItem from="1705275122515" duration="2841000" />
       <workItem from="1705360974815" duration="63187000" />
       <workItem from="1706242048532" duration="1457000" />
-      <workItem from="1706484259981" duration="13806000" />
+      <workItem from="1706484259981" duration="15115000" />
     </task>
     <servers />
   </component>
@@ -158,6 +158,11 @@
           <url>file://$PROJECT_DIR$/src/problem/class2/Problem1676.java</url>
           <line>15</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problem/class2/Problem10989.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
