@@ -44,7 +44,7 @@
       <recent name="src.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem2609">
+  <component name="RunManager" selected="Application.Problem2798">
     <configuration name="Problem10989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem10989" />
       <module name="java-baekjoon" />
@@ -60,19 +60,6 @@
     </configuration>
     <configuration name="Problem2164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem2164" />
-      <module name="java-baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.problem.class2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem2292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem2292" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -110,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem2798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem2798" />
+      <module name="java-baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.problem.class2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem2798" />
         <item itemvalue="Application.Problem2609" />
         <item itemvalue="Application.Problem2164" />
         <item itemvalue="Application.Problem10989" />
         <item itemvalue="Application.Problem2751" />
-        <item itemvalue="Application.Problem2292" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <workItem from="1705275122515" duration="2841000" />
       <workItem from="1705360974815" duration="63187000" />
       <workItem from="1706242048532" duration="1457000" />
-      <workItem from="1706484259981" duration="19576000" />
+      <workItem from="1706484259981" duration="23097000" />
     </task>
     <servers />
   </component>
@@ -163,11 +163,6 @@
           <url>file://$PROJECT_DIR$/src/problem/class2/Problem10989.java</url>
           <line>18</line>
           <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/problem/class2/Problem2609.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
