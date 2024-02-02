@@ -44,9 +44,9 @@
       <recent name="src.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem4153">
-    <configuration name="Problem10989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem10989" />
+  <component name="RunManager" selected="Application.Problem11050">
+    <configuration name="Problem11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem11050" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem11050" />
         <item itemvalue="Application.Problem4153" />
         <item itemvalue="Application.Problem2798" />
         <item itemvalue="Application.Problem2609" />
         <item itemvalue="Application.Problem2164" />
-        <item itemvalue="Application.Problem10989" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <workItem from="1705275122515" duration="2841000" />
       <workItem from="1705360974815" duration="63187000" />
       <workItem from="1706242048532" duration="1457000" />
-      <workItem from="1706484259981" duration="24971000" />
+      <workItem from="1706484259981" duration="27687000" />
     </task>
     <servers />
   </component>
