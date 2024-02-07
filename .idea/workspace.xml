@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="088ab022-cc8d-475b-b8ca-40524ca2053b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem/class2/Problem9012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/class2/Problem9012.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <recent name="src.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem9012">
+  <component name="RunManager" selected="Application.Problem10816">
     <configuration name="Problem10814" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem10814" />
       <module name="java-baekjoon" />
@@ -62,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem10845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem10845" />
+    <configuration name="Problem10816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem10816" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem11650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem11650" />
+    <configuration name="Problem10845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem10845" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem10816" />
         <item itemvalue="Application.Problem9012" />
         <item itemvalue="Application.Problem11866" />
         <item itemvalue="Application.Problem10845" />
         <item itemvalue="Application.Problem10814" />
-        <item itemvalue="Application.Problem11650" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,7 @@
       <workItem from="1707048630872" duration="320000" />
       <workItem from="1707095139102" duration="4009000" />
       <workItem from="1707175185259" duration="3167000" />
-      <workItem from="1707192588019" duration="4331000" />
+      <workItem from="1707192588019" duration="6848000" />
     </task>
     <servers />
   </component>
