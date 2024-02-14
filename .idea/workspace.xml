@@ -141,7 +141,7 @@
       <workItem from="1707048630872" duration="320000" />
       <workItem from="1707095139102" duration="4009000" />
       <workItem from="1707175185259" duration="3167000" />
-      <workItem from="1707192588019" duration="22336000" />
+      <workItem from="1707192588019" duration="25093000" />
     </task>
     <servers />
   </component>
@@ -181,11 +181,6 @@
           <url>file://$PROJECT_DIR$/src/problem/class2/Problem11651.java</url>
           <line>38</line>
           <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/problem/class2/Problem18110.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
