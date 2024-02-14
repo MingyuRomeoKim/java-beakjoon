@@ -48,7 +48,7 @@
       <recent name="src.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem2869">
+  <component name="RunManager" selected="Application.Problem15829">
     <configuration name="Problem11651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem11651" />
       <module name="java-baekjoon" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem18110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem18110" />
+    <configuration name="Problem15829" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem15829" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2839" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem2839" />
+    <configuration name="Problem18110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem18110" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem15829" />
         <item itemvalue="Application.Problem2869" />
         <item itemvalue="Application.Problem18110" />
         <item itemvalue="Application.Problem4949" />
         <item itemvalue="Application.Problem11651" />
-        <item itemvalue="Application.Problem2839" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,7 @@
       <workItem from="1707048630872" duration="320000" />
       <workItem from="1707095139102" duration="4009000" />
       <workItem from="1707175185259" duration="3167000" />
-      <workItem from="1707192588019" duration="27831000" />
+      <workItem from="1707192588019" duration="31892000" />
     </task>
     <servers />
   </component>
