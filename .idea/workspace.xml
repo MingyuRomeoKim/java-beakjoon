@@ -48,7 +48,7 @@
       <recent name="src.problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem1003">
+  <component name="RunManager" selected="Application.Problem1764">
     <configuration name="Problem1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.problem.class3.Problem1003" />
       <module name="java-baekjoon" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem18111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.problem.class2.Problem18111" />
+    <configuration name="Problem1764" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.problem.class3.Problem1764" />
       <module name="java-baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.problem.class2.*" />
+          <option name="PATTERN" value="src.problem.class3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem1764" />
         <item itemvalue="Application.Problem1003" />
         <item itemvalue="Application.Problem1463" />
         <item itemvalue="Application.Problem1260" />
         <item itemvalue="Application.Problem1012" />
-        <item itemvalue="Application.Problem18111" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,7 @@
       <workItem from="1707192588019" duration="32265000" />
       <workItem from="1707955518484" duration="3930000" />
       <workItem from="1708148249309" duration="12807000" />
-      <workItem from="1709680391443" duration="5000000" />
+      <workItem from="1709680391443" duration="6541000" />
     </task>
     <servers />
   </component>
